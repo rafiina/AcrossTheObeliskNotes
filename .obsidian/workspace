@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "0c5326487a5e0131",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c492f744d10823a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 - Start Here/The Aquarfall Marsh.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d862146db6c5c9a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aqueduct - The monster trainer (U).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8dc38d0bee914f21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "West Fang Gate - The apprentice craftsman (R).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cf77bc616e8735b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d924212bc13036",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe7f836ee4cc91c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "917c4041792f420f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1931214dec217280",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85f13902c2deea00",
+    "type": "split",
+    "children": [
+      {
+        "id": "98ef2114a6ce4d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c4a10032d78b235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Start Here/The Aquarfall Marsh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74ba70b673eb9b58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Start Here/The Aquarfall Marsh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e1d173eeac6054",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e66fb7e8434f7321",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Start Here/The Aquarfall Marsh.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c492f744d10823a",
+  "lastOpenFiles": [
+    "Oculy.md",
+    "01 - Start Here/The Aquarfall Marsh.md",
+    "Aqueduct - The monster trainer (U).md",
+    "01 - Start Here/Senenthia.md",
+    "Cracked Wall - TBD (Character).md",
+    "West Fang Gate - The apprentice craftsman (R).md",
+    "Atlar - Altar of Songs.md",
+    "Temple Stairs - Battle.md",
+    "02 - InfoBank/South Pier - Jack, the boat seller (C).md",
+    "Battlefield - An odd war (C).md"
+  ]
+}
