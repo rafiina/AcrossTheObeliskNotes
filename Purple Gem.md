@@ -1,0 +1,1 @@
+Required for "yellow, green, purple" choice at [[Magic Circle - The colored runes (C)]]
