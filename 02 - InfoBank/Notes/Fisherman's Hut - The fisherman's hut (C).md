@@ -1,5 +1,12 @@
 ![[Pasted image 20220904154522.png]]
 
+[[Hidden options]] - 2
+- Not triggered by:
+	- Heiner
+	- Gustav
+	- Cornelius
+	- Malukah
+
 ## Options
 ---
 
@@ -9,6 +16,12 @@ Fail: [[Poisoned]]
 Triggers [[#Battle]]
 
 ### Thuls: Skill card
+---
+
+### 
+---
+
+### 
 ---
 
 ## Battle

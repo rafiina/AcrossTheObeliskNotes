@@ -1,11 +1,23 @@
 ![[Pasted image 20220904134526.png]]
 
-Options:
+[[Hidden options]] - 1
+- Not triggered by:
+	- Heiner
+	- Gustav
+	- Cornelius
+	- Malukah
 
-Accept: Obtain Items
-- ![[Gihl Runestone]]
-- ![[Sacred Tablet]]
-- ![[Silver Ring]]
-- ![[Acolyte Tunic]]
-- ![[Health Potion]]
-- ![[Silver Chalice]]
+## Options
+---
+
+### Accept
+---
+- Obtain non-unique items
+	- Seem to mostly healing related commons
+
+### Decline
+---
+**Nothing happens**
+
+### 
+---

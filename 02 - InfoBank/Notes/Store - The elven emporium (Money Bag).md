@@ -1,6 +1,6 @@
 ![[Pasted image 20220905153920.png]]
 
-[[Hidden options]] - 5
+[[Hidden options]] - 3
 - Not triggered by:
 	- Grukli
 	- Gustav
@@ -22,11 +22,13 @@ Critical Failure:
 Failure: 
 Success: 
 
-### 
+### Give ([[Rabbit Meat]])
 ---
 
-### 
+### Give ([[Big Fish]])
 ---
+25% Discount
+Obtain item [[Magic Torch]]
 
 ### 
 ---

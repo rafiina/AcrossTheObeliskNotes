@@ -6,31 +6,26 @@
 ### Leave
 ---
 
-### Combat (vs Crocomen)
----
-- [[#Battle Sauron]]
-- New Options
-	- #### Loot
-	- #### Loot (special)
-		- Requires visiting [[Eastern Village - An empty village (C)]]
-		- Unlocks achievement [[Achievment: Mysterious Reward]]
-		- Add [[South Pier - Jack, the boat seller (C)#Continue|Continue]] option to [[South Pier - Jack, the boat seller (C)]]
-		- Obtain unique items:
-			- ![[Mystic Staff]]
-			- ![[Primal Necklace]]
-
 ### Combat (vs Lizardmen)
 ---
+- [[#Battle Sauron]]
+- Triggers post-fight event [[Crocomen win the war (C)]]
+
+### Combat (vs Crocomen)
+---
+- Triggers [[#Battle Irwin]]
+- Triggers post-fight event [[Lizardmen win the war]]
 
 ### Combat (Both)
 ---
 
-### Bet (Lizardmen)
+### Bet (for Lizardmen)
 ---
 
-### Bet (Crocomen)
+### Bet (against Lizardmen)
 ---
-
+Cost: 200g
+Success: 600g
 
 ## Battle (Sauron)
 ---
@@ -38,3 +33,7 @@
 - [[Sauron]]
 	- Battle does not auto-end when Sauron dies
 - [[Mystic]]
+
+## Battle (Irwin)
+---
+- 
