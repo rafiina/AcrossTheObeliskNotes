@@ -1,0 +1,1 @@
+Unlocked by using [[Naga Notes]] at [[Naga Mural - The lightning runes (C)#Read Naga Notes]]

@@ -1,0 +1,1 @@
+Used to unlock [[Slimy]] by using at [[Poisonous River - Slimes on the bridge (C)]]

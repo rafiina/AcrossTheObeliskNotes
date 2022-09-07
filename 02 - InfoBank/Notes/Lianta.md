@@ -1,0 +1,1 @@
+Unlocked by selecting [[Secret Cave - Rest among cobwebs (C)#Open mysterious cocoon]]

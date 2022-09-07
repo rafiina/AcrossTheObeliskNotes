@@ -16,6 +16,7 @@
 
 ### Look
 ---
+Obtain item: [[Naga Notes]]
 
 ### Burn
 ---

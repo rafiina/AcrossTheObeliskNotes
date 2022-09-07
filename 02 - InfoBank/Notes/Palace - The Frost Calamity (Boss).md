@@ -6,10 +6,12 @@
 ### Combat
 ---
 
-
 ### Rest (+40%): Group (5 or lower)
 ---
 
+### Rest (+40%)
+---
+Requires [[Magic Torch]]
 
 ## Battle
 ---

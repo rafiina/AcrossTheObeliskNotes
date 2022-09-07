@@ -1,0 +1,1 @@
+Obtained from [[Eastern Village - An empty village (C)#Look]]

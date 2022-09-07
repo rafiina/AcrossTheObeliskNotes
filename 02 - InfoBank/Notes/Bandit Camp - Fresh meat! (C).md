@@ -1,5 +1,11 @@
 ![[Pasted image 20220904141045.png]]
-[[Hidden options]] - 2
+
+[[Hidden options]] - 1
+- Not triggered by:
+	- Thuls
+	- Evenlyn
+	- Reginald
+
 ## Options
 
 ### Combat
@@ -8,17 +14,22 @@
 ### Run: Group (7 or higher)
 ---
 
-### Magnus
+### [[Magnus]]
 ---
-[[Bandit Camp - Fresh meat! (C)#Battle|Battle]]
+Triggers [[Bandit Camp - Fresh meat! (C)#Battle|Battle]]
 Start with 1 Fast
 
-### Grukli: Melee Attack Card
+### [[Grukli]]: Melee Attack Card
 ---
 Failure: 
 Success: [[#Battle]]
 	- Yogger starts with 12 bleed stacks
 	- Yogger starts with 3 slow stacks
+
+### [[Bree]]
+---
+Triggers [[#Battle]]
+All characters start with 4 thorns
 
 ## Battle
 ---

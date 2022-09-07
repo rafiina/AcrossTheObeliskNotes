@@ -20,8 +20,10 @@ Obtain non-unique items
 ### Sneak Away: Group (3 or higher)
 ---
 
-### 
+### [[Cornelius]]
 ---
+- Removes imp from [[#Battle]]
+- Generates post-fight event [[The burning house]]
 
 ### 
 ---
@@ -29,3 +31,5 @@ Obtain non-unique items
 ### 
 ---
 
+## Battle
+---

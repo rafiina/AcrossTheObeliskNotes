@@ -1,0 +1,2 @@
+- May be used at [[City Square - Encased in ice (C)#Use Torch]]
+- May be used at [[Palace - The Frost Calamity (Boss)]]
