@@ -1,9 +1,11 @@
 ![[Pasted image 20220906104544.png]]
 
-[[Hidden options]] - 9
+[[Hidden options]] - 8
 - Not triggered by:
 	- Wilbur
 	- Malukah
+	- Cornelius
+	- Zek
 
 ## Options
 ---
@@ -16,10 +18,11 @@
 
 ### Gustav
 ---
-Bypass injury mini-game
+Pass safely
 
-### 
+### Defense card
 ---
+Success: pass safely
 
 ### 
 ---

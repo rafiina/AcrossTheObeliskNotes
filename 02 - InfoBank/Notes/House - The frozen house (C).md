@@ -9,5 +9,4 @@
 
 ### Loot
 ---
-
 Obtain gold
