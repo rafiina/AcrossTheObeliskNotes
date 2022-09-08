@@ -7,6 +7,7 @@
 
 ### Leave
 ---
+No boat access
 
 ### Pay (1000g)
 ---

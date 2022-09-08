@@ -17,7 +17,7 @@ E = Epic
 ## Obtainable Items
 ---
 [[Rabbit Meat]] - [[Campsite - The White Horde (E)]]
-[[Magic Torch]] - Select "Give" option at [[Store - The elven emporium (Money Bag)]]
+[[Magic Torch]] - Select any "Give" option at [[Store - The elven emporium (Money Bag)]]
 
 ## Areas
 ---
@@ -48,7 +48,11 @@ E = Epic
 [[Broken Wall - Battle]]
 [[Store - The elven emporium (Money Bag)]]
 [[City Gates - Battle]]
-[[Sewer Outlet - The exiled (Character)]]
+#### Sewer Outlet
+- [[Sewer Outlet - The exiled (Character)]]
+- [[Sewer Outlet - Closed Sewers (C)]]
+	- Requires [[Zek]] in party
+
 [[Armory - The elven armory (C)]]
 [[Back Street - Run or freeze! (C)]]
 [[Main Street - Battle]]

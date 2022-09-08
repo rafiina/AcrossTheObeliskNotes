@@ -1,5 +1,7 @@
 ![[Pasted image 20220904161227.png]]
 
+Note: Boss starting buffs are determined by which boss you select to stand in front of.
+
 ## Options
 ---
 
@@ -12,6 +14,8 @@ Gives all enemies 2 [[Reinforce]]
 
 ### Combat - Malice
 ---
+- Battle order becomes: [[Malice]], [[Hatred]], [[Arrogance]], [[Scorn]] but enemy turn order is the same.
+- Gives all enemies 2 [[Courage]]
 
 ### Rest (+40%): Group (5 or lower)
 ---

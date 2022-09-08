@@ -86,7 +86,7 @@ E = Epic
 
 [[Temple Border - Battle]]
 #### Cracked Wall
-- [[Cracked Wall - ??? (C)]]
+- [[Cracked Wall - The wall collapses (C)]]
 - [[Cracked Wall - TBD (Character)]]
 
 #### Waterfall Ledge
@@ -95,7 +95,7 @@ E = Epic
 - Waterfall Ledge - ??? (C)
 	- Requires [[Grukli]] in party
 
-[[Sales Booth - ??? (Money Bag)]]
+[[Sales Booth - The antique shop (Money Bag)]]
 [[Fisherman's Hut - The fisherman's hut (C)]]
 - Miniboss
 
