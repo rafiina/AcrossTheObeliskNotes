@@ -5,6 +5,9 @@ Occurs after selecting certain options in [[Forest Glade - The moon ritual (C)]]
 
 ### Loot (immediate)
 ---
+- 280 gold
+- All characterse obtain [[Itchy Burn]]
+- Obtain unique items: See below
 
 ### Loot (Wait for moon)
 ---

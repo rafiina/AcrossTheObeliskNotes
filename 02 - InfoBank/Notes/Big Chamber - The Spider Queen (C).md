@@ -5,6 +5,8 @@
 	- Bree
 	- Evelyn
 	- Reginald
+	- Heiner
+	- Wilbur
 
 ## Options
 ---
@@ -21,11 +23,12 @@
 	- The [[Herder]] is removed from the fight
 - Creates post-fight event [[Death to the queen!]]
 
-### 
+### [[Malukah]]: Skill card
 ---
 
-### 
+### [[Sylvie]]: Ranged Attack card
 ---
+Fail: [[Low Self-Esteem]]
 
 ### 
 ---

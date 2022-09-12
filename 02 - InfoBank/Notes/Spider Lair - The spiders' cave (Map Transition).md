@@ -5,6 +5,9 @@
 	- Bree
 	- Evelyn
 	- Reginald
+	- Heiner
+	- Malukah
+	- Wilbur
 
 ## Options
 ---
@@ -17,9 +20,9 @@
 ---
 Enter the [[Spider Lair]] starting on [[Cave Entrance - Spider Lair (Entrance)]]
 
-### 
+### [[Sylvie]]
 ---
-
+Enter the [[Spider Lair]] starting on [[Cave Entrance - Spider Lair (Entrance)]]
 
 ### 
 ---

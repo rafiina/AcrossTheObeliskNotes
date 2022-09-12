@@ -1,5 +1,27 @@
 ![[Pasted image 20220907044036.png]]
 
-**Need proper notes**
+[[Hidden options]] - 2
+- Not triggered by:
+	- Heiner
+	- Sylvie
+	- Wilbur
+	- Malukah
 
-Used [[Slime Bait]] here to unlock slimy
+## Options
+---
+
+### Combat
+---
+
+### Jump: Single (1 or higher)
+---
+
+### Throw ([[Slime Bait]])
+---
+
+### 
+---
+
+### 
+---
+

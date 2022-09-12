@@ -5,6 +5,9 @@
 	- Thuls
 	- Evelyn
 	- Reginald
+	- Sylvie
+	- Wilbur
+	- Malukah
 
 ## Options
 ---
@@ -21,10 +24,18 @@ Unlocks path to [[Secret Cave - Rest among cobwebs (C)]]
 
 ### Examine
 ---
+240g
+Obtain [[Old Journal]]
+Initiates [[#Battle]]
 
-### 
+### [[Heiner]]
 ---
 
 ### 
 ---
 
+## Battle
+---
+- [[Hatchling]]
+- [[Spider]]
+- [[Pendulum]]

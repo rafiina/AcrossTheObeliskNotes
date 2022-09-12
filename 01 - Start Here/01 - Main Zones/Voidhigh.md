@@ -25,6 +25,7 @@ E = Epic
 [[Garden - The sacred garden (C)]]
 [[Magic Circle - The colored runes (C)]]
 - Uses [[Purple Gem]]
+- Uses [[Old Journal]]
 
 [[Chapel (North) - The makeshift chapel (Heal)]]
 [[Altar (South) - The ancient altar (Forge)]]

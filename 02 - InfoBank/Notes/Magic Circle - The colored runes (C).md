@@ -1,6 +1,11 @@
 ![[Pasted image 20220904194114.png]]
 
-[[Hidden options]]: 3
+[[Hidden options]]: 2
+- Not triggered by:
+	- Heiner
+	- Sylvie
+	- Wilbur
+	- Malukah
 
 ## Options
 ---
@@ -19,8 +24,10 @@ Nothing happens
 ---
 Initial Energy +1
 
-### 
+### Use: Green, Yellow, Blue ([[Old Journal]])
 ---
+- Unlock achievement [[Merchant's Dream]]
+- 16 Supply Box
 
 ### 
 ---
