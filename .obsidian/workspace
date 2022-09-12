@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10767c0d721a60e3",
+        "id": "570408ac66dcdbcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 - InfoBank/Notes/Cracked Wall - The wall collapses (C).md",
+            "file": "02 - InfoBank/Notes/Frozen Tear.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dryad",
+                "query": "frozen tear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - InfoBank/Notes/Cracked Wall - The wall collapses (C).md",
+                "file": "02 - InfoBank/Notes/Frozen Tear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,9 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - InfoBank/Notes/Cracked Wall - The wall collapses (C).md",
+                "file": "02 - InfoBank/Notes/Frozen Tear.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - InfoBank/Notes/Cracked Wall - The wall collapses (C).md"
+                "file": "02 - InfoBank/Notes/Frozen Tear.md"
               }
             }
           }
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "abe7f836ee4cc91c",
   "lastOpenFiles": [
-    "02 - InfoBank/Images/Pasted image 20220907235229.png",
-    "01 - Start Here/Main Zones/Voidhigh.md",
+    "01 - Start Here/01 - Main Zones/Faeborg Forest.md",
+    "02 - InfoBank/Notes/Frozen Tear.md",
+    "02 - InfoBank/Notes/Freezing Ink.md",
+    "02 - InfoBank/Notes/Forest Crown.md",
+    "02 - InfoBank/Notes/Faeborg Scale.md",
     "02 - InfoBank/Notes/Enlightened.md",
-    "02 - InfoBank/Notes/Garden - The sacred garden (C).md",
-    "02 - InfoBank/Notes/Airship - Tsenemo's merchant ship (C).md",
-    "01 - Start Here/Main Zones/Voidlow.md",
-    "01 - Start Here/Main Zones/Faeborg Forest.md",
-    "02 - InfoBank/Notes/Mansion - Maniac Mansion (Character).md",
-    "02 - InfoBank/Notes/House - The frozen house (C).md",
-    "02 - InfoBank/Notes/Sewer Outlet - Closed Sewers (C).md"
+    "02 - InfoBank/Notes/Electroshock.md",
+    "02 - InfoBank/Notes/Dryad Mask.md",
+    "02 - InfoBank/Notes/Darkflame Ring.md",
+    "02 - InfoBank/Notes/Cooling Servos.md"
   ]
 }

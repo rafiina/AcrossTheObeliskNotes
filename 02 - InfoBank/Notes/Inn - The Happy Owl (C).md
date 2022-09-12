@@ -17,3 +17,7 @@ Obtain [[Well Fed]]
 ### Ask
 ---
 
+### Ask ([[Old Journal]])
+---
+- 480 shards
+- Unlocks [[Magic Circle - The colored runes (C)#Use Green Yellow Blue Old Journal|Green, Yellow, Orange]] option at [[Magic Circle - The colored runes (C)]]

@@ -1,0 +1,46 @@
+## Build Ideas
+---
+
+### [[Sight]]
+---
+- Weapon:
+	- [[Scryer Staff]], if possible
+	- Any +sight charge weapon
+- Ring:
+	- [[Fervent Ring]], if possible
+	- [[All-Seeing Amulet]]
+	- [[Vision Ring]]
+- Accessory:
+	- [[Spider Queen Eye]] - Guaranteed drop in [[Big Chamber - The Spider Queen (C)]]
+- Pet:
+	- [[Harley]] -- Corrupted
+- Traits:
+	- Target Shooting
+	- Hawkeye
+	- Eternal Bond
+- Perks:
+	- Poison
+		- Shadow Resist reduction if taking Malukah or Zek
+		- Mark
+		- Sight
+			- Sight +3 on second perk
+		- 12 stack Vulnerable
+- Key cards:
+	- [[Scavenge]]
+		- Great card to corrupt in act 4.  Benefit is big, failure cost relatively small
+	- [[Detection]]
+		- Anti-Stealth, Bigger Damage, Lots of Sight, AoE
+	- [[Hunter's Mark]]
+		- Vanish, Mark
+	- [[Vigilance]]
+		- Don't buy from shop before completing [[The Aquarfall Marsh]]
+		- Three of these will guarantee ~40-50 stacks of poison on turn 1.  Possibly fire and bleed later on, too.
+	- No need for any attacks by the end.
+	- I focused on vanish for the rest.  Some multi-hit direct attacks might be nice on [[Lord Hanshek]], but less so on [[Archon Nihr]] since he reduces stacks.
+- Synergy:
+	- [[Malukah]] - Poison reducing darkness means more damage and better heals.
+	- [[Zek]] - Same as Malukah
+	- Card Draw - Her deck is cheap, so [[Helping Hands]] with small amounts of energize are great
+- Notes:
+	- Requires a lot of deck modification over the course of the run.  First two acts are harder from lack of [[Spider Queen Eye]] and Hawkeye
+	- Build doesn't come together until [[Spider Queen Eye]], so more or less necessitates [[The Aquarfall Marsh]] for Act 2.
